@@ -1,4 +1,6 @@
 # Skin Lesion Classification – ISIC Challenge 2016
+📅 Project originally developed in 2021
+This repository was uploaded later for archival purposes.
 
 This repository contains the material developed for the **Bachelor’s Thesis** of *Giulio Tamburini*, focused on the **automatic classification of skin lesions** using **Deep Learning** techniques.
 The work was carried out as an experimental project in the field of **Computer Vision** and **Artificial Intelligence**.
